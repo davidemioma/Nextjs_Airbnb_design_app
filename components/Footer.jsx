@@ -28,7 +28,7 @@ const Footer = () => {
 
         <p>Papafam</p>
 
-        <p>Don't do that skip..</p>
+        <p>Don&apos;t do that skip..</p>
       </div>
 
       <div className="space-y-3 text-sm text-gray-800">
